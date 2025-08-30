@@ -10,7 +10,7 @@
 
 🎓 **Pós-Graduando em Ciência de Dados pela Unicamp**
 
-📚 MBA em **Cybersecurity Governance (FIAP)**    
+📚 MBA em **Cybersecurity Governance & Management (FIAP)**    
 
 📚 MBA em **Gestão e Tecnologia em Segurança da Informação (Daryus)**
 
