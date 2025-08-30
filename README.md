@@ -18,11 +18,11 @@
 
 💻 **Bacharel em Ciências Contábeis (Anhanguera)**  
 
-🚀 Profissional com sólida experiência em **Engenharia de Dados, Segurança da Informação, Governança de Dados e Finanças Corporativas**. 
+🚀 Profissional com sólida experiência em **Segurança da Informação, Governança de Dados, Finanças Corporativas e Engenharia de Dados em formação**. 
 
-⚡ Minha atuação combina **construção de pipelines robustos, governança e compliance**, conectando tecnologia, segurança e gestão estratégica.  
+⚡ Minha atuação combina **construção de pipelines robustos, governança e compliance**, conectando tecnologia, segurança e gestão estratégica. Minha motivação em aprofundar o conhecimento em Engenharia de Dados decorre da compreensão de que, para auditar e proteger informações de forma eficaz, é imprescindível entender como os dados são estruturados, processados e governados. Esse direcionamento fortalece minhas competências técnicas e amplia minha capacidade de integrar Engenharia de Dados e Inteligência Artificial em soluções robustas e estratégicas. 
 
-✨ Apaixonado por transformar **dados em insights confiáveis** e aplicar **boas práticas de DataOps, Big Data e Cloud** para acelerar decisões de negócio.  
+✨ Apaixonado por transformar **dados em insights confiáveis** e aplicar **boas práticas de DataOps, MLOps, Big Data e Cloud** para acelerar decisões de negócio.  
 
 ---
 
