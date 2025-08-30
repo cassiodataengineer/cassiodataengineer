@@ -8,10 +8,14 @@
 
 ## 🌟 Sobre mim  
 
-🎓 **Pós-Graduando em Ciência de Dados pela Unicamp**  
+🎓 **Pós-Graduando em Ciência de Dados pela Unicamp**
+
 📚 MBA em **Cybersecurity Governance (FIAP)**    
+
 📚 MBA em **Gestão e Tecnologia em Segurança da Informação (Daryus)**
+
 📚 MBA em **Gestão Empresarial, Controladoria e Finanças (IPOG)**
+
 💻 **Bacharel em Ciências Contábeis (Anhanguera)**  
 
 🚀 Profissional com sólida experiência em **Engenharia de Dados, Segurança da Informação, Governança de Dados e Finanças Corporativas**. 
