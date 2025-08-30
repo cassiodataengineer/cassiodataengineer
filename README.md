@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Cássio Campos  
 
 🎯 **Engenharia de Dados | DataOps | Big Data | MLOPs | Cloud | Python | SQL | Databricks | Snowflake | dbt | Governança & Segurança da Informação**  
-📍 Brasil  
+📍 Campinas - SP - Brasil  
 
 ---
 
