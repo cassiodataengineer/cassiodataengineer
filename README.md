@@ -65,7 +65,7 @@
 🎓 **Microsoft / DIO**  
 - Microsoft AI for Tech – Azure Databricks  
 
-🎓 **Bootcamp**  
+🎓 **Bootcamp Triggo.AI**  
 - Engenharia de Dados & DataOps (2025)  
 
 ---
