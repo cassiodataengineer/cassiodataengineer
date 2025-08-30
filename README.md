@@ -11,6 +11,7 @@
 🎓 **Pós-Graduando em Ciência de Dados pela Unicamp**  
 📚 MBA em **Cybersecurity Governance (FIAP)**    
 📚 MBA em **Gestão e Tecnologia em Segurança da Informação (Daryus)**
+
 📚 MBA em **Gestão Empresarial, Controladoria e Finanças (IPOG)**
 💻 **Bacharel em Ciências Contábeis (Anhanguera)**  
 
