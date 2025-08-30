@@ -71,7 +71,7 @@
 
 ## 🌍 Idiomas  
 
-- 🇺🇸 Inglês — **Avançado**  
+- 🇺🇸 Inglês — **Intermediário**  
 
 ---
 
