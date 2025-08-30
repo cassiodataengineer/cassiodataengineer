@@ -11,12 +11,11 @@
 🎓 **Pós-Graduando em Ciência de Dados pela Unicamp**  
 📚 MBA em **Cybersecurity Governance (FIAP)**    
 📚 MBA em **Gestão e Tecnologia em Segurança da Informação (Daryus)**
-
 📚 MBA em **Gestão Empresarial, Controladoria e Finanças (IPOG)**
-
 💻 **Bacharel em Ciências Contábeis (Anhanguera)**  
 
-🚀 Profissional com sólida experiência em **Engenharia de Dados, Segurança da Informação, Governança de Dados e Finanças Corporativas**.  
+🚀 Profissional com sólida experiência em **Engenharia de Dados, Segurança da Informação, Governança de Dados e Finanças Corporativas**. 
+
 ⚡ Minha atuação combina **construção de pipelines robustos, governança e compliance**, conectando tecnologia, segurança e gestão estratégica.  
 
 ✨ Apaixonado por transformar **dados em insights confiáveis** e aplicar **boas práticas de DataOps, Big Data e Cloud** para acelerar decisões de negócio.  
